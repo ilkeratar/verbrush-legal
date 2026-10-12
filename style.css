@@ -71,11 +71,13 @@ h2 {
 }
 
 p,
-ul {
+ul,
+ol {
   margin: 0 0 14px;
 }
 
-ul {
+ul,
+ol {
   padding-left: 22px;
 }
 
